@@ -1,0 +1,12 @@
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\SDL.dll
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\MonogameShaderGL.exe
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\MonogameShaderGL.pdb
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\MonoGame.Framework.dll
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\OpenTK.dll
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\Tao.Sdl.dll
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\obj\x86\Debug\MonogameShaderGL.exe
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\obj\x86\Debug\MonogameShaderGL.pdb
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\Content\Effect1.xnb
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\Content\Texture.xnb
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\Content\TextureA.xnb
+E:\Development\Investigation\MonogameShaderGL\MonogameShaderGL\bin\WindowsGL\Debug\Content\TextureB.xnb
